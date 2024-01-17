@@ -1,0 +1,37 @@
+.box1 {
+    width: 233px;
+    height: 192px;
+    background-color: #FC0000;
+    position: absolute;
+    z-index: 4;
+}
+
+.box2 {
+    width: 233px;
+    height: 192px;
+    background-color: #05FC00;
+    position: absolute;
+    z-index: 3;
+    top: 107px;
+    left: 128px;
+}
+
+.box3 {
+    width: 233px;
+    height: 192px;
+    background-color: #000AFC;
+    position: absolute;
+    z-index: 1;
+    top: 203px;
+    left: 244px;
+}
+
+.box4 {
+    width: 233px;
+    height: 192px;
+    background-color: #F7FC00;
+    position: absolute;
+    z-index: 2;
+    top: 253px;
+    left: 314px;
+}
